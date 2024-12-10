@@ -1,2 +1,0 @@
-# DerivativeAssetCalculationLibrary
-DerivativeAssetCalculationLibrary
